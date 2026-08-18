@@ -10,7 +10,9 @@ Goal: Demonstrate practical AI implementation, prompt engineering, and modern UI
 
 ## Key Features
 **Email Summarizer** - Paste long emails get key bullet points
+
 **meeting Notes to Tasks** - Convert transcripts into action items + deadlines
+
 **Report Draft Generator** - Turn raw data/notes into a first draft report
 
 ## Responsible AI Usage
