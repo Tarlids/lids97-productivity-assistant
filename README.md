@@ -6,7 +6,7 @@ Goal: Demonstrate practical AI implementation, prompt engineering, and modern UI
 
 ## Tools Used
 - **ChatGPT**: For AI logic, summarization, and content generation
-- **Lovable AI**: For building the fronted UI/UX
+- **Lovable AI**: For building the frontend UI/UX
 
 ## Key Features
 **Email Summirizer** - Paste long emails get key bullet points
