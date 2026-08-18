@@ -5,8 +5,8 @@ An integrated dashboard that automates workplace tasks using ChatGPT and Lovable
 Goal: Demonstrate practical AI implementation, prompt engineering, and modern UI/UX.
 
 ## Tools Used
--**ChatGPT**: For AI logic, summarization, and content generation
--**Lovable AI**: For building the fronted UI/UX
+- **ChatGPT**: For AI logic, summarization, and content generation
+- **Lovable AI**: For building the fronted UI/UX
 
 ## Key Features
 **Email Summirizer** - Paste long emails get key bullet points
