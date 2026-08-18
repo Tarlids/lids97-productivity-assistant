@@ -9,7 +9,7 @@ Goal: Demonstrate practical AI implementation, prompt engineering, and modern UI
 - **Lovable AI**: For building the frontend UI/UX
 
 ## Key Features
-**Email Summirizer** - Paste long emails get key bullet points
+**Email Summarizer** - Paste long emails get key bullet points
 **meeting Notes to Tasks** - Convert transcripts into action items + deadlines
 **Report Draft Generator** - Turn raw data/notes into a first draft report
 
